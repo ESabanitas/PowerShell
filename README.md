@@ -21,4 +21,4 @@ Cada script en nuestro repositorio está cuidadosamente documentado y probado pa
 
 Ya seas un administrador de sistemas, un profesional de TI o un desarrollador, nuestros scripts en PowerShell te ayudarán a simplificar tus tareas diarias en Office 365, permitiéndote centrarte en actividades más estratégicas y productivas. Explora nuestro repositorio, descubre nuevas formas de automatizar tus procesos y lleva tu productividad al siguiente nivel con nuestros scripts en PowerShell para Office 365. ¡Bienvenido a la automatización simplificada!
 
-Ir a *[WIKI](https://github.com/ESabanitas/PowerShell/wiki)
+Ir a [WIKI](https://github.com/ESabanitas/PowerShell/wiki)
