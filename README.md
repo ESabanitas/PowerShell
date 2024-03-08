@@ -1,4 +1,4 @@
-# PowerShell
+# Scrips con el poder de PowerShell
 ¡Te doy la bienvenida al repositorio de automatización para Office 365 y sus diversos servicios, impulsado por scripts en PowerShell! Aquí, nos enfocamos en ofrecerte una amplia gama de herramientas y recursos diseñados específicamente para simplificar y optimizar tus procesos y implementaciones en el ecosistema de Office 365.
 
 Los scripts en PowerShell son una poderosa herramienta que permite la automatización de tareas dentro de Office 365. Gracias a su versatilidad y capacidad para interactuar con los servicios de Office 365 a través de su API, podemos ofrecerte soluciones eficientes y personalizadas para una variedad de escenarios.
